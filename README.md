@@ -14,4 +14,4 @@ hello,我是bigbyto，一个后端开发者。从事软件开发行业也有挺�
 
 我的扇贝
 
-![https://raw.githubusercontent.com/xingty/xingty.github.io/master/assets/svg/shanbayword.svg](https://raw.githubusercontent.com/xingty/xingty.github.io/master/assets/svg/shanbayword.svg)
+![https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbayword.svg](https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbayword.svg)
