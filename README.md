@@ -12,6 +12,8 @@ hello,我是bigbyto，一个后端开发者。从事软件开发行业也有挺�
 
 如果想看看我曾经写过啥，可以去[我的博客](https://wiyi.org)逛逛; 如果要单独联系我，可以发邮件到bigbyto@gmail.com。
 
-我的扇贝
+记录一下我的学习过程
 
 ![https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay.svg](https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay.svg)
+
+![https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/duolingo.svg](https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/duolingo.svg)
