@@ -16,4 +16,6 @@ Hello,我是bigbyto，一个后端开发者。从事软件开发行业也有挺�
 
 ![https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay.svg](https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay.svg)
 
+![https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay_2023.svg](https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay_2023.svg)
+
 ![https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/duolingo.svg](https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/duolingo.svg)
