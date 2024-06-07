@@ -15,3 +15,5 @@ Hello,我是bigbyto，一个后端开发者。从事软件开发行业也有挺�
 记录一下我的学习过程
 
 ![https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay.svg](https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay.svg)
+
+![https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay_circular.svg](https://raw.githubusercontent.com/xingty/assets/main/github_poster/OUT_FOLDER/shanbay_circular.svg)
