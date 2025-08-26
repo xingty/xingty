@@ -2,20 +2,11 @@ Hello,我是bigbyto，一个后端开发者。从事软件开发行业也有挺�
 
 下面是我写的一些小东西:
 
-* [transcat](https://github.com/xingty/transcat) - 一个翻译服务管理工具，我喜欢搭配沉浸式翻译一起使用
-
-* [bob-plugin-transcat](https://github.com/xingty/bob-plugin-transcat) - bob的transcat插件
-
-* [bob-youdao-dict](https://github.com/xingty/bob-plugin-youdao-dict-enhance) - Bob的有道词典插件
-
 * [Shadowsocks-java](https://github.com/xingty/shadowsocks-java) - 学netty时顺便实现了ss协议，致敬一下原作者
 
 * [CatGPT](https://github.com/xingty/CatGPT) - 一个基于Telegram的chatbot
 
 如果想看看我曾经写过啥，可以去[我的博客](https://wiyi.org)逛逛; 如果要单独联系我，可以发邮件到bigbyto@gmail.com。
-
-**爱发电**: [versatile_mq](https://afdian.net/a/versatile_mq)
-
 
 
 记录一下我的学习过程
