@@ -1,6 +1,4 @@
-Hello,我是bigbyto，一个后端开发者。从事软件开发行业也有挺多年了，一直都在为公司写代码，今年(2023)开始，准备投入一些时间到github上，为自己写一些代码。我想写一些有趣的，或者是自己感兴趣的，能提高日常学习效率的东西。
-
-下面是我写的一些小东西:
+Hello, 欢迎来到这里。
 
 * [Shadowsocks-java](https://github.com/xingty/shadowsocks-java) - 学netty时顺便实现了ss协议，致敬一下原作者
 
