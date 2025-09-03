@@ -4,6 +4,8 @@ Hello, 欢迎来到这里。
 
 * [CatGPT](https://github.com/xingty/CatGPT) - 一个基于Telegram的chatbot
 
+* [rcode-go](https://github.com/xingty/rcode-go) - 实现在ssh server中输入命令调用本地的vscode,zed,cursor等编辑器打开server的目录
+
 如果想看看我曾经写过啥，可以去[我的博客](https://wiyi.org)逛逛; 如果要单独联系我，可以发邮件到bigbyto@gmail.com。
 
 
